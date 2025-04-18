@@ -1,0 +1,45 @@
+D:\Funix\ASM_02\ASM_02\obj\Debug\ASM_02.csproj.AssemblyReference.cache
+D:\Funix\ASM_02\ASM_02\obj\Debug\MainWindow.g.cs
+D:\Funix\ASM_02\ASM_02\obj\Debug\App.g.cs
+D:\Funix\ASM_02\ASM_02\obj\Debug\ASM_02_MarkupCompile.cache
+D:\Funix\ASM_02\ASM_02\obj\Debug\ASM_02_MarkupCompile.lref
+D:\Funix\ASM_02\ASM_02\bin\Debug\ASM_02.exe.config
+D:\Funix\ASM_02\ASM_02\bin\Debug\ASM_02.exe
+D:\Funix\ASM_02\ASM_02\bin\Debug\ASM_02.pdb
+D:\Funix\ASM_02\ASM_02\obj\Debug\MainWindow.baml
+D:\Funix\ASM_02\ASM_02\obj\Debug\ASM_02.g.resources
+D:\Funix\ASM_02\ASM_02\obj\Debug\ASM_02.Properties.Resources.resources
+D:\Funix\ASM_02\ASM_02\obj\Debug\ASM_02.csproj.GenerateResource.cache
+D:\Funix\ASM_02\ASM_02\obj\Debug\ASM_02.csproj.CoreCompileInputs.cache
+D:\Funix\ASM_02\ASM_02\obj\Debug\ASM_02.exe
+D:\Funix\ASM_02\ASM_02\obj\Debug\ASM_02.pdb
+D:\Funix\CSP101x_asm2_vuongvkfx30791@funix.edu.vn\ASM_02\bin\Debug\ASM_02.exe.config
+D:\Funix\CSP101x_asm2_vuongvkfx30791@funix.edu.vn\ASM_02\bin\Debug\ASM_02.exe
+D:\Funix\CSP101x_asm2_vuongvkfx30791@funix.edu.vn\ASM_02\bin\Debug\ASM_02.pdb
+D:\Funix\CSP101x_asm2_vuongvkfx30791@funix.edu.vn\ASM_02\obj\Debug\ASM_02.csproj.AssemblyReference.cache
+D:\Funix\CSP101x_asm2_vuongvkfx30791@funix.edu.vn\ASM_02\obj\Debug\MainWindow.g.cs
+D:\Funix\CSP101x_asm2_vuongvkfx30791@funix.edu.vn\ASM_02\obj\Debug\App.g.cs
+D:\Funix\CSP101x_asm2_vuongvkfx30791@funix.edu.vn\ASM_02\obj\Debug\ASM_02_MarkupCompile.cache
+D:\Funix\CSP101x_asm2_vuongvkfx30791@funix.edu.vn\ASM_02\obj\Debug\ASM_02_MarkupCompile.lref
+D:\Funix\CSP101x_asm2_vuongvkfx30791@funix.edu.vn\ASM_02\obj\Debug\MainWindow.baml
+D:\Funix\CSP101x_asm2_vuongvkfx30791@funix.edu.vn\ASM_02\obj\Debug\ASM_02.g.resources
+D:\Funix\CSP101x_asm2_vuongvkfx30791@funix.edu.vn\ASM_02\obj\Debug\ASM_02.Properties.Resources.resources
+D:\Funix\CSP101x_asm2_vuongvkfx30791@funix.edu.vn\ASM_02\obj\Debug\ASM_02.csproj.GenerateResource.cache
+D:\Funix\CSP101x_asm2_vuongvkfx30791@funix.edu.vn\ASM_02\obj\Debug\ASM_02.csproj.CoreCompileInputs.cache
+D:\Funix\CSP101x_asm2_vuongvkfx30791@funix.edu.vn\ASM_02\obj\Debug\ASM_02.exe
+D:\Funix\CSP101x_asm2_vuongvkfx30791@funix.edu.vn\ASM_02\obj\Debug\ASM_02.pdb
+D:\Personal things\Funix\CSP101x.2.0.VN\CSP101x_asm2_vuongvkfx30791@funix.edu.vn\ASM_02\bin\Debug\ASM_02.exe.config
+D:\Personal things\Funix\CSP101x.2.0.VN\CSP101x_asm2_vuongvkfx30791@funix.edu.vn\ASM_02\bin\Debug\ASM_02.exe
+D:\Personal things\Funix\CSP101x.2.0.VN\CSP101x_asm2_vuongvkfx30791@funix.edu.vn\ASM_02\bin\Debug\ASM_02.pdb
+D:\Personal things\Funix\CSP101x.2.0.VN\CSP101x_asm2_vuongvkfx30791@funix.edu.vn\ASM_02\obj\Debug\ASM_02.csproj.AssemblyReference.cache
+D:\Personal things\Funix\CSP101x.2.0.VN\CSP101x_asm2_vuongvkfx30791@funix.edu.vn\ASM_02\obj\Debug\MainWindow.g.cs
+D:\Personal things\Funix\CSP101x.2.0.VN\CSP101x_asm2_vuongvkfx30791@funix.edu.vn\ASM_02\obj\Debug\App.g.cs
+D:\Personal things\Funix\CSP101x.2.0.VN\CSP101x_asm2_vuongvkfx30791@funix.edu.vn\ASM_02\obj\Debug\ASM_02_MarkupCompile.cache
+D:\Personal things\Funix\CSP101x.2.0.VN\CSP101x_asm2_vuongvkfx30791@funix.edu.vn\ASM_02\obj\Debug\ASM_02_MarkupCompile.lref
+D:\Personal things\Funix\CSP101x.2.0.VN\CSP101x_asm2_vuongvkfx30791@funix.edu.vn\ASM_02\obj\Debug\MainWindow.baml
+D:\Personal things\Funix\CSP101x.2.0.VN\CSP101x_asm2_vuongvkfx30791@funix.edu.vn\ASM_02\obj\Debug\ASM_02.g.resources
+D:\Personal things\Funix\CSP101x.2.0.VN\CSP101x_asm2_vuongvkfx30791@funix.edu.vn\ASM_02\obj\Debug\ASM_02.Properties.Resources.resources
+D:\Personal things\Funix\CSP101x.2.0.VN\CSP101x_asm2_vuongvkfx30791@funix.edu.vn\ASM_02\obj\Debug\ASM_02.csproj.GenerateResource.cache
+D:\Personal things\Funix\CSP101x.2.0.VN\CSP101x_asm2_vuongvkfx30791@funix.edu.vn\ASM_02\obj\Debug\ASM_02.csproj.CoreCompileInputs.cache
+D:\Personal things\Funix\CSP101x.2.0.VN\CSP101x_asm2_vuongvkfx30791@funix.edu.vn\ASM_02\obj\Debug\ASM_02.exe
+D:\Personal things\Funix\CSP101x.2.0.VN\CSP101x_asm2_vuongvkfx30791@funix.edu.vn\ASM_02\obj\Debug\ASM_02.pdb
